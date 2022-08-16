@@ -1,2 +1,2 @@
 # api-consulta-cep
- Deploy: api-consulta-cep1.netlify.app
+ Deploy: https://api-consulta-cep1.netlify.app
